@@ -8,10 +8,19 @@ In this project we have tried to implement the idea of knowledge transfer like i
 
 Technologies:
 
-Front end - HTML, CSS
-Back end - Python
-API - Flask 
+API - Flask
+
 Package - Chatterbot
+
+corpus-chatterbot corpus
+
+Front end - HTML, CSS
+
+Back end - Python
+
+File name: data.yml
+
+
 
 File name:app.py
 
