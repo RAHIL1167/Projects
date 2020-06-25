@@ -8,8 +8,6 @@ english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStora
 trainer = ChatterBotCorpusTrainer(english_bot)
 trainer.train("chatterbot.corpus.english")
 trainer.train("D://College//Buddybot//Buddybot//data//data1.yml")
-
-
 @app.route("/")
 def home():
     return render_template("index.html")

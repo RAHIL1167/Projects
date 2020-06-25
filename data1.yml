@@ -1,0 +1,13 @@
+categories:
+- conversation
+conversations:
+- -Good evening
+ -Good evening:)
+- -What is ML?
+  -Machine learning is a branch of science where machines learn on their own without being explicitly programmed.
+- -What is Gradient Descent?
+  -Gradient descent is a optimisation algorithm which iteratively converges until it finds the steepest descent
+- -How are you?
+  -I am doing awesome.
+- - who created you?
+  - Rahil
