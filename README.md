@@ -47,6 +47,6 @@ Text Detection.ipynb
 
 https://github.com/RAHIL1167/Projects/blob/master/text_detection.py
 
-sentimentanalysis-checkpoint.ipynb
+sentimentanalysis.py
 
-https://github.com/RAHIL1167/Projects/blob/master/sentimentanalysis-checkpoint.ipynb
+https://github.com/RAHIL1167/Projects/blob/master/sentimentanalysis.py
