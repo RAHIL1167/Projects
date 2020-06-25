@@ -34,6 +34,4 @@ OpenCV
 NLTK
 Naïve bayes classifier
 
-Text Detction.ipynb
-
-https://github.com/RAHIL1167/Projects/blob/master/Text%20Detction.ipynb
+Text Detction.ipynbhttps://github.com/RAHIL1167/Projects/blob/master/text_detection.py
